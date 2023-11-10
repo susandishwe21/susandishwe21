@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susandishwe21&label=Profile%20views&color=0e75b6&style=flat" alt="susandishwe21" /> </p>
 
-- 🔭 I’m currently working on [MyMoniee](https://github.com/susandishwe21/MyMoniee.git)
+- I've been a seasoned developer since 2019, and I specialize in creating mobile applications using Flutter.
 
 - 👨‍💻 All of my projects are available at [https://github.com/susandishwe21](https://github.com/susandishwe21)
 
