@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **susandishwe2598@gmail.com**
 
-- 📄 Know about my experiences [I have a total of 3 years experience as a Flutter Mobile Developer.](I have a total of 3 years experience as a Flutter Mobile Developer.)
+- 📄 Know about my experiences I have a total of 3 years experience as a Flutter Mobile Developer
 
 - ⚡ Fun fact **I am funny and smart**
 
