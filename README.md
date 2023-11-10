@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [MyMoniee](https://github.com/susandishwe21/MyMoniee.git)
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [https://github.com/susandishwe21](https://github.com/susandishwe21)
 
 - 📫 How to reach me **susandishwe2598@gmail.com**
